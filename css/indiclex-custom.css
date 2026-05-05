@@ -1,0 +1,576 @@
+/* ============================================================
+   IndicLex — Custom Stylesheet  |  Iteration 2
+   Layered on top of SB Admin 2 / Bootstrap 5
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+/* ── CSS Variables ─────────────────────────────────────────── */
+:root {
+  --il-font-display: 'Lora', Georgia, serif;
+  --il-font-body:    'IBM Plex Sans', system-ui, sans-serif;
+  --il-font-mono:    'IBM Plex Mono', monospace;
+
+  /* Light palette */
+  --il-primary:      #1a3a5c;
+  --il-primary-soft: #2a5298;
+  --il-accent:       #c8793a;
+  --il-accent-soft:  #e8935a;
+  --il-bg:           #f5f4f0;
+  --il-surface:      #ffffff;
+  --il-surface-2:    #f0eeea;
+  --il-border:       #d8d4cc;
+  --il-text:         #1c1c1e;
+  --il-text-muted:   #6b6760;
+  --il-sidebar-bg:   #1a3a5c;
+  --il-sidebar-text: #c8d8e8;
+  --il-sidebar-active: #c8793a;
+  --il-nav-height:   64px;
+  --il-shadow:       0 2px 12px rgba(0,0,0,0.08);
+  --il-shadow-md:    0 4px 24px rgba(0,0,0,0.12);
+  --il-radius:       8px;
+  --il-radius-lg:    14px;
+  --il-transition:   0.22s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* Dark theme overrides */
+[data-theme="dark"],
+body.theme-dark {
+  --il-primary:      #4a8fd4;
+  --il-primary-soft: #6aaee8;
+  --il-accent:       #e8935a;
+  --il-accent-soft:  #f0b07a;
+  --il-bg:           #0f1923;
+  --il-surface:      #172132;
+  --il-surface-2:    #1e2d42;
+  --il-border:       #2e3d52;
+  --il-text:         #e8edf2;
+  --il-text-muted:   #8da0b4;
+  --il-sidebar-bg:   #0a1520;
+  --il-sidebar-text: #8da0b4;
+  --il-sidebar-active:#e8935a;
+  --il-shadow:       0 2px 12px rgba(0,0,0,0.4);
+  --il-shadow-md:    0 4px 24px rgba(0,0,0,0.5);
+}
+
+/* ── Base Resets ───────────────────────────────────────────── */
+body {
+  font-family: var(--il-font-body);
+  background-color: var(--il-bg);
+  color: var(--il-text);
+  transition: background-color var(--il-transition), color var(--il-transition);
+}
+
+h1, h2, h3, .display-font {
+  font-family: var(--il-font-display);
+}
+
+code, kbd, .mono {
+  font-family: var(--il-font-mono);
+}
+
+/* ── Sidebar ───────────────────────────────────────────────── */
+#accordionSidebar,
+.sidebar {
+  background-color: var(--il-sidebar-bg) !important;
+  border-right: 1px solid rgba(255,255,255,0.06);
+  transition: background-color var(--il-transition);
+}
+
+.sidebar .nav-item .nav-link {
+  color: var(--il-sidebar-text);
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--il-radius);
+  margin: 2px 8px;
+  transition: background var(--il-transition), color var(--il-transition);
+}
+
+.sidebar .nav-item .nav-link:hover,
+.sidebar .nav-item.active .nav-link {
+  background: rgba(200, 121, 58, 0.18);
+  color: var(--il-sidebar-active);
+}
+
+.sidebar .nav-item.active .nav-link {
+  border-left: 3px solid var(--il-sidebar-active);
+}
+
+.sidebar .sidebar-brand {
+  background: rgba(0,0,0,0.2);
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  padding: 1.25rem 1rem;
+}
+
+.sidebar-brand-text {
+  font-family: var(--il-font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: #fff;
+}
+
+.sidebar-brand-text span {
+  color: var(--il-accent);
+}
+
+.sidebar-divider {
+  border-color: rgba(255,255,255,0.08) !important;
+  margin: 0.5rem 1rem;
+}
+
+.sidebar-heading {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(200,216,232,0.45) !important;
+  padding: 0.5rem 1.5rem;
+}
+
+/* ── Topbar / Navbar ───────────────────────────────────────── */
+.topbar {
+  background-color: var(--il-surface) !important;
+  border-bottom: 1px solid var(--il-border);
+  height: var(--il-nav-height);
+  box-shadow: var(--il-shadow);
+  transition: background-color var(--il-transition), border-color var(--il-transition);
+}
+
+.topbar .navbar-nav .nav-link {
+  color: var(--il-text-muted);
+}
+
+#themeToggleBtn {
+  background: var(--il-surface-2);
+  border: 1px solid var(--il-border);
+  color: var(--il-text);
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 0.35rem 0.9rem;
+  transition: all var(--il-transition);
+  cursor: pointer;
+}
+
+#themeToggleBtn:hover {
+  background: var(--il-primary);
+  color: #fff;
+  border-color: var(--il-primary);
+}
+
+/* ── Page Wrapper ──────────────────────────────────────────── */
+#wrapper {
+  display: flex;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* ── Content Wrapper ───────────────────────────────────────── */
+#content-wrapper, .content-wrapper {
+  background-color: var(--il-bg);
+  transition: background-color var(--il-transition);
+}
+
+#content {
+  padding: 1.5rem 2rem;
+}
+
+/* ── Cards ─────────────────────────────────────────────────── */
+.card {
+  background-color: var(--il-surface);
+  border: 1px solid var(--il-border);
+  border-radius: var(--il-radius-lg);
+  box-shadow: var(--il-shadow);
+  transition: background-color var(--il-transition), border-color var(--il-transition), box-shadow var(--il-transition);
+}
+
+.card:hover {
+  box-shadow: var(--il-shadow-md);
+}
+
+.card-header {
+  background-color: var(--il-surface-2);
+  border-bottom: 1px solid var(--il-border);
+  font-family: var(--il-font-display);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--il-text);
+  padding: 1rem 1.25rem;
+  border-radius: var(--il-radius-lg) var(--il-radius-lg) 0 0 !important;
+}
+
+.card-body {
+  padding: 1.5rem;
+  color: var(--il-text);
+}
+
+/* ── Hero Section ──────────────────────────────────────────── */
+.il-hero {
+  background: linear-gradient(135deg, var(--il-primary) 0%, var(--il-primary-soft) 100%);
+  border-radius: var(--il-radius-lg);
+  padding: 3rem 3.5rem;
+  margin-bottom: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.il-hero::before {
+  content: '';
+  position: absolute;
+  top: -60px; right: -60px;
+  width: 300px; height: 300px;
+  background: radial-gradient(circle, rgba(200,121,58,0.2) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.il-hero::after {
+  content: '';
+  position: absolute;
+  bottom: -80px; left: 20%;
+  width: 400px; height: 200px;
+  background: radial-gradient(ellipse, rgba(255,255,255,0.04) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.il-hero h1 {
+  font-size: clamp(1.8rem, 3.5vw, 2.8rem);
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 0.75rem;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+.il-hero h1 em {
+  color: var(--il-accent-soft);
+  font-style: italic;
+}
+
+.il-hero p {
+  color: rgba(255,255,255,0.8);
+  font-size: 1rem;
+  max-width: 560px;
+  line-height: 1.7;
+  margin-bottom: 0;
+}
+
+.il-hero .badge-iteration {
+  display: inline-block;
+  background: rgba(200,121,58,0.25);
+  border: 1px solid rgba(200,121,58,0.5);
+  color: var(--il-accent-soft);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.75rem;
+  border-radius: 20px;
+  margin-bottom: 1rem;
+  font-family: var(--il-font-body);
+}
+
+/* ── Feature Grid Cards ────────────────────────────────────── */
+.il-feature-card {
+  background: var(--il-surface);
+  border: 1px solid var(--il-border);
+  border-radius: var(--il-radius-lg);
+  padding: 1.75rem 1.5rem;
+  height: 100%;
+  transition: transform var(--il-transition), box-shadow var(--il-transition);
+  text-decoration: none;
+  display: block;
+  color: inherit;
+}
+
+.il-feature-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--il-shadow-md);
+  color: inherit;
+  text-decoration: none;
+}
+
+.il-feature-card .feature-icon {
+  width: 48px; height: 48px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.il-feature-card h5 {
+  font-family: var(--il-font-display);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--il-text);
+  margin-bottom: 0.5rem;
+}
+
+.il-feature-card p {
+  font-size: 0.85rem;
+  color: var(--il-text-muted);
+  margin-bottom: 0;
+  line-height: 1.6;
+}
+
+.feature-icon.catalog  { background: rgba(26,58,92,0.12); color: #1a3a5c; }
+.feature-icon.search   { background: rgba(200,121,58,0.12); color: #c8793a; }
+.feature-icon.prefs    { background: rgba(76,153,76,0.12); color: #3a7a3a; }
+.feature-icon.theme    { background: rgba(120,60,160,0.12); color: #7a3ca0; }
+
+[data-theme="dark"] .feature-icon.catalog  { background: rgba(74,143,212,0.15); color: #6aaee8; }
+[data-theme="dark"] .feature-icon.search   { background: rgba(232,147,90,0.15); color: #e8935a; }
+[data-theme="dark"] .feature-icon.prefs    { background: rgba(76,180,76,0.15); color: #5dba5d; }
+[data-theme="dark"] .feature-icon.theme    { background: rgba(160,100,200,0.15); color: #c07adc; }
+
+/* ── Page Headers ──────────────────────────────────────────── */
+.il-page-header {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--il-border);
+}
+
+.il-page-header h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--il-text);
+  margin-bottom: 0.25rem;
+  letter-spacing: -0.02em;
+}
+
+.il-page-header .breadcrumb {
+  margin-bottom: 0;
+  font-size: 0.8rem;
+}
+
+.il-page-header .breadcrumb-item,
+.il-page-header .breadcrumb-item.active {
+  color: var(--il-text-muted);
+}
+
+.il-page-header .breadcrumb-item a {
+  color: var(--il-primary);
+  text-decoration: none;
+}
+
+.il-page-header .breadcrumb-item a:hover { text-decoration: underline; }
+
+/* ── Tables ────────────────────────────────────────────────── */
+.table {
+  color: var(--il-text);
+  border-color: var(--il-border);
+  font-size: 0.9rem;
+}
+
+.table thead th {
+  background-color: var(--il-surface-2);
+  color: var(--il-text-muted);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-color: var(--il-border);
+  padding: 0.85rem 1rem;
+}
+
+.table tbody tr {
+  border-color: var(--il-border);
+  transition: background var(--il-transition);
+}
+
+.table tbody tr:hover {
+  background-color: var(--il-surface-2);
+}
+
+.table tbody td {
+  padding: 0.85rem 1rem;
+  vertical-align: middle;
+  border-color: var(--il-border);
+}
+
+/* ── Forms ─────────────────────────────────────────────────── */
+.form-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--il-text);
+  letter-spacing: 0.02em;
+  margin-bottom: 0.4rem;
+}
+
+.form-control, .form-select {
+  background-color: var(--il-surface-2);
+  border: 1px solid var(--il-border);
+  color: var(--il-text);
+  border-radius: var(--il-radius);
+  font-size: 0.9rem;
+  padding: 0.55rem 0.9rem;
+  transition: border-color var(--il-transition), box-shadow var(--il-transition), background var(--il-transition);
+}
+
+.form-control:focus, .form-select:focus {
+  background-color: var(--il-surface);
+  border-color: var(--il-primary);
+  box-shadow: 0 0 0 3px rgba(26,58,92,0.15);
+  color: var(--il-text);
+  outline: none;
+}
+
+.form-control::placeholder { color: var(--il-text-muted); }
+
+/* ── Buttons ───────────────────────────────────────────────── */
+.btn-primary {
+  background-color: var(--il-primary);
+  border-color: var(--il-primary);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  padding: 0.55rem 1.5rem;
+  border-radius: var(--il-radius);
+  transition: all var(--il-transition);
+}
+
+.btn-primary:hover {
+  background-color: var(--il-primary-soft);
+  border-color: var(--il-primary-soft);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(26,58,92,0.3);
+}
+
+.btn-accent {
+  background-color: var(--il-accent);
+  border-color: var(--il-accent);
+  color: #fff;
+  font-weight: 500;
+  padding: 0.55rem 1.5rem;
+  border-radius: var(--il-radius);
+  transition: all var(--il-transition);
+}
+
+.btn-accent:hover {
+  background-color: var(--il-accent-soft);
+  border-color: var(--il-accent-soft);
+  color: #fff;
+}
+
+/* ── Placeholders / Info Panels ────────────────────────────── */
+.il-placeholder-panel {
+  background: var(--il-surface-2);
+  border: 2px dashed var(--il-border);
+  border-radius: var(--il-radius-lg);
+  padding: 2.5rem 2rem;
+  text-align: center;
+  color: var(--il-text-muted);
+}
+
+.il-placeholder-panel i {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  opacity: 0.4;
+}
+
+.il-placeholder-panel h6 {
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: var(--il-text);
+}
+
+.il-placeholder-panel p {
+  font-size: 0.85rem;
+  margin-bottom: 0;
+}
+
+/* ── Info Alert / Note ─────────────────────────────────────── */
+.il-dev-note {
+  background: rgba(26,58,92,0.07);
+  border-left: 4px solid var(--il-primary);
+  border-radius: 0 var(--il-radius) var(--il-radius) 0;
+  padding: 0.75rem 1rem;
+  font-size: 0.82rem;
+  color: var(--il-text-muted);
+}
+
+[data-theme="dark"] .il-dev-note {
+  background: rgba(74,143,212,0.1);
+  border-left-color: var(--il-primary);
+}
+
+.il-dev-note strong { color: var(--il-primary); }
+
+/* ── Language Badges ───────────────────────────────────────── */
+.lang-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 0.25rem 0.6rem;
+  border-radius: 20px;
+  font-family: var(--il-font-body);
+}
+
+.lang-telugu  { background: rgba(26,58,92,0.1); color: #1a3a5c; }
+.lang-sanskrit{ background: rgba(200,121,58,0.1); color: #9a5010; }
+.lang-hindi   { background: rgba(76,153,76,0.1); color: #2a6a2a; }
+
+[data-theme="dark"] .lang-telugu  { background: rgba(74,143,212,0.15); color: #7ab8e8; }
+[data-theme="dark"] .lang-sanskrit{ background: rgba(232,147,90,0.15); color: #e8b07a; }
+[data-theme="dark"] .lang-hindi   { background: rgba(100,180,100,0.15); color: #80c880; }
+
+/* ── Footer ────────────────────────────────────────────────── */
+footer.sticky-footer {
+  background-color: var(--il-surface);
+  border-top: 1px solid var(--il-border);
+  color: var(--il-text-muted);
+  font-size: 0.8rem;
+  padding: 1rem 1.5rem;
+  transition: background-color var(--il-transition), border-color var(--il-transition);
+}
+
+footer.sticky-footer .text-muted {
+  color: var(--il-text-muted) !important;
+}
+
+footer a {
+  color: var(--il-primary);
+  text-decoration: none;
+}
+
+footer a:hover { text-decoration: underline; }
+
+/* ── Sidebar Toggle (mobile) ───────────────────────────────── */
+#sidebarToggle, #sidebarToggleTop {
+  background: transparent;
+  border: none;
+  color: var(--il-text-muted);
+  font-size: 1.1rem;
+  padding: 0.4rem;
+}
+
+/* ── Utility ───────────────────────────────────────────────── */
+.section-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--il-text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.divider-text {
+  border-color: var(--il-border) !important;
+}
+
+.text-primary-il { color: var(--il-primary) !important; }
+.text-accent-il  { color: var(--il-accent) !important; }
+.text-muted-il   { color: var(--il-text-muted) !important; }
+
+/* ── Responsive Tweaks ─────────────────────────────────────── */
+@media (max-width: 768px) {
+  #content { padding: 1rem; }
+  .il-hero  { padding: 2rem 1.5rem; }
+  .il-hero h1 { font-size: 1.6rem; }
+}
