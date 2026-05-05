@@ -1,0 +1,66 @@
+# IndicLex — .htaccess
+# Place in /indiclex/ (your document root for the app).
+# Bluehost shared hosting has mod_rewrite and AllowOverride All by default.
+
+Options -Indexes
+Options +FollowSymLinks
+
+AddDefaultCharset UTF-8
+
+# ── Compression ───────────────────────────────────────────────────────────────
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css
+  AddOutputFilterByType DEFLATE application/javascript application/json
+</IfModule>
+
+# ── Browser caching ───────────────────────────────────────────────────────────
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css               "access plus 7 days"
+  ExpiresByType application/javascript "access plus 7 days"
+  ExpiresByType image/png              "access plus 30 days"
+  ExpiresByType image/svg+xml          "access plus 30 days"
+  # Never cache API responses
+  ExpiresByType application/json       "access plus 0 seconds"
+</IfModule>
+
+# ── Security headers ──────────────────────────────────────────────────────────
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options        "SAMEORIGIN"
+  Header always set Referrer-Policy        "strict-origin-when-cross-origin"
+
+  # CORS only on the API file
+  <FilesMatch "^search\.php$">
+    Header always set Access-Control-Allow-Origin  "*"
+    Header always set Access-Control-Allow-Methods "GET, OPTIONS"
+    Header always set Access-Control-Allow-Headers "Content-Type"
+  </FilesMatch>
+</IfModule>
+
+# ── Block direct access to sensitive files ────────────────────────────────────
+<FilesMatch "^dbcon\.php$">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+<FilesMatch "\.(env|sql|log|sh|bak|orig)$">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+# ── URL rewriting ─────────────────────────────────────────────────────────────
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /indiclex-c.jasthi.com/
+
+  # 1. Let real files and directories through untouched
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # 2. Clean API route
+  #    GET api/search                     → api/search.php
+  #    GET api/search?query=word&mode=prefix&dict_id=1&page=2
+  RewriteRule ^api/search/?$ api/search.php [L,QSA]
+
+</IfModule>

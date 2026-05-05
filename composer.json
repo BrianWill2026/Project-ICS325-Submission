@@ -1,0 +1,17 @@
+{
+    "name": "brianwillems/indiclex_c",
+    "description": "Class",
+    "type": "project",
+    "require": {
+        "composer": "^2.9",
+        "ext-mysqlnd": "^0.0.0",
+        "phpoffice/phpspreadsheet": "^5.5"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Brian"
+        }
+    ],
+    "minimum-stability": "stable"
+}

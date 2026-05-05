@@ -1,0 +1,432 @@
+[20-Apr-2026 12:35:22 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:22 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:25 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:25 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:25 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:25 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:26 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:26 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:29 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:29 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:45 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:45 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:46 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:35:46 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:20 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:20 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:21 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:21 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:21 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:21 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:45 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:45 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:47 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:47 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:48 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:48 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:50 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:50 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:50 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:50 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:50 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:50 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:50 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:50 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:51 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:36:51 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:05 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:05 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:05 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:05 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:06 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:06 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:06 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:06 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:07 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:07 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:07 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:07 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:32 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:32 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:33 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:33 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:35 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:37:35 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:38:31 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:38:31 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:38:32 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:38:32 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:38:33 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:38:33 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:38:34 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:38:34 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:07 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:07 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:08 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:08 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:09 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:09 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:10 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:10 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:10 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:10 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:10 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:10 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:11 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:11 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:43 America/Boise] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:39:43 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 5
+[20-Apr-2026 12:44:46 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[20-Apr-2026 12:44:47 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[20-Apr-2026 12:44:48 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[20-Apr-2026 12:49:44 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 12:49:45 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 12:50:57 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 12:50:59 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 12:56:50 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 12:56:51 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 12:59:17 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 12:59:18 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 12:59:19 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 12:59:19 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 13:59:28 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 13:59:30 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 13:59:31 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 18:11:03 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 18:12:28 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/icsbinco/public_html/indiclex_c/index.php:22
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/index.php(22): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/index.php on line 22
+[20-Apr-2026 18:20:59 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[21-Apr-2026 03:55:34 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[21-Apr-2026 11:03:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[21-Apr-2026 19:04:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[23-Apr-2026 08:48:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[23-Apr-2026 08:48:09 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[23-Apr-2026 11:27:35 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[23-Apr-2026 12:04:50 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[23-Apr-2026 22:28:22 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[23-Apr-2026 22:28:22 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[24-Apr-2026 05:38:34 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[24-Apr-2026 06:24:48 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[24-Apr-2026 21:11:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 00:55:01 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 03:15:19 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 08:03:04 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 08:24:13 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 09:14:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 09:51:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 10:21:11 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 10:53:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:18:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:18:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:18:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:18:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:18:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:18:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:18:40 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:18:40 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:18:40 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:18:40 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:19:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:19:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:19:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:19:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:19:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:19:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:19:17 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:19:17 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:22:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:22:45 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:42:29 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:43:47 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:48:41 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:49:19 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:49:24 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 20:50:21 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 21:40:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[25-Apr-2026 23:43:10 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 05:28:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 05:28:04 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 05:29:04 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 05:29:04 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 07:45:58 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 10:10:21 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 11:29:05 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 11:58:47 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 20:20:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 21:06:53 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 21:06:54 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 21:06:54 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 21:06:54 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 21:06:54 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 21:43:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 21:43:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 21:43:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 21:43:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[26-Apr-2026 21:43:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 03:31:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 03:31:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 03:31:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 03:31:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 03:31:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 04:27:07 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 06:40:44 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 06:51:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 06:51:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 06:51:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 07:38:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 07:41:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 07:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 07:44:38 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 13:58:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:09:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:09:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:09:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:13:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:25 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:31 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:43 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:43 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:44 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:45 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:51 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:52 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:52 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:53 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:54 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:40:54 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:47:02 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:47:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:47:04 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:56:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 15:56:29 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'icsbinco_indiclex_c_db_user'@'localhost' to database ' icsbinco_indiclex_c_db' in /home2/icsbinco/public_html/indiclex_c/dbcon.php on line 2
+[27-Apr-2026 17:08:12 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/icsbinco/public_html/indiclex_c/preferences.php:1) in /home2/icsbinco/public_html/indiclex_c/preferences.php on line 79
+[27-Apr-2026 17:08:12 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/icsbinco/public_html/indiclex_c/preferences.php:1) in /home2/icsbinco/public_html/indiclex_c/preferences.php on line 80
+[27-Apr-2026 17:08:12 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/icsbinco/public_html/indiclex_c/preferences.php:1) in /home2/icsbinco/public_html/indiclex_c/preferences.php on line 81
+[27-Apr-2026 17:08:12 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/icsbinco/public_html/indiclex_c/preferences.php:1) in /home2/icsbinco/public_html/indiclex_c/preferences.php on line 82
+[27-Apr-2026 17:43:37 America/Boise] PHP Warning:  move_uploaded_file(uploads/1777333417-dictionaries_two__1_.xlsx): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/index.php on line 98
+[27-Apr-2026 17:43:37 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpjcWWR8&quot; to &quot;uploads/1777333417-dictionaries_two__1_.xlsx&quot; in /home2/icsbinco/public_html/indiclex_c/index.php on line 98
+[04-May-2026 13:04:58 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in /home2/icsbinco/public_html/indiclex_c/catalog.php:185
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/catalog.php(185): mysqli_stmt_close(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/catalog.php on line 185
+[04-May-2026 13:17:20 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in /home2/icsbinco/public_html/indiclex_c/catalog.php:185
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/catalog.php(185): mysqli_stmt_close(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/catalog.php on line 185
+[04-May-2026 13:18:13 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in /home2/icsbinco/public_html/indiclex_c/catalog.php:185
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/catalog.php(185): mysqli_stmt_close(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/catalog.php on line 185
+[04-May-2026 13:18:45 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in /home2/icsbinco/public_html/indiclex_c/catalog.php:185
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/catalog.php(185): mysqli_stmt_close(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/catalog.php on line 185
+[04-May-2026 13:20:10 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in /home2/icsbinco/public_html/indiclex_c/catalog.php:185
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/catalog.php(185): mysqli_stmt_close(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/catalog.php on line 185
+[04-May-2026 14:03:01 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home2/icsbinco/public_html/indiclex_c/integrity.php:74
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/integrity.php(74): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/integrity.php on line 74
+[04-May-2026 14:06:22 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Subquery returns more than 1 row in /home2/icsbinco/public_html/indiclex_c/integrity.php:70
+Stack trace:
+#0 /home2/icsbinco/public_html/indiclex_c/integrity.php(70): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/integrity.php on line 70
+[04-May-2026 14:25:35 America/Boise] PHP Parse error:  Unmatched '}' in /home2/icsbinco/public_html/indiclex_c/integrity.php on line 77
+[04-May-2026 14:25:44 America/Boise] PHP Parse error:  Unmatched '}' in /home2/icsbinco/public_html/indiclex_c/integrity.php on line 77
+[04-May-2026 14:30:58 America/Boise] PHP Parse error:  Unmatched '}' in /home2/icsbinco/public_html/indiclex_c/integrity.php on line 86
+[04-May-2026 14:31:01 America/Boise] PHP Parse error:  Unmatched '}' in /home2/icsbinco/public_html/indiclex_c/integrity.php on line 86
+[04-May-2026 14:37:28 America/Boise] PHP Parse error:  Unmatched '}' in /home2/icsbinco/public_html/indiclex_c/integrity.php on line 94
+[04-May-2026 17:24:07 America/Boise] PHP Warning:  require_once(/home2/icsbinco/public_html/indiclex_c/../dbcon.php): Failed to open stream: No such file or directory in /home2/icsbinco/public_html/indiclex_c/api_search.php on line 36
+[04-May-2026 17:24:07 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/icsbinco/public_html/indiclex_c/../dbcon.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/icsbinco/public_html/indiclex_c/api_search.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/icsbinco/public_html/indiclex_c/api_search.php on line 36
